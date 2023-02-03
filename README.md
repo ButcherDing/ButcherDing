@@ -1,6 +1,10 @@
 ### Hi there 👋 
 
-I'm Evon, a web developer based in London. Currently SEEKING FULL-TIME WORK (no sponsorship required).
+I'm Evon, a web developer based in London. 
+
+I currently design and build slick, responsive web apps using React Redux / Javascript / Typescript / Sass / Styled Components.
+
+SEEKING FULL-TIME WORK (no sponsorship required).
 
 - 🔭 I’m currently wrapping up an e-commerce React (Redux RTK) app for a Vancouver artist.
 - 😄 Pronouns: He/Him
@@ -23,5 +27,3 @@ Too subtle?
 - Excellent written and verbal communication, with all types of people and organizations, in multiple languages (Japanese, Spanish, French, and of course English).
 
 - Adaptable, highly motivated, and a self-starter. I learned everything I know about coding/development in 6 months of self-teaching. Imagine how much more I can learn and do for your organization in 3, 6, 12 months or more?
-
-
