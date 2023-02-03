@@ -8,7 +8,7 @@ SEEKING FULL-TIME WORK (no sponsorship required).
 
 - 🔭 I’m currently wrapping up an e-commerce React (Redux RTK) app for a Vancouver artist.
 - 😄 Pronouns: He/Him
-- 💬 Ask me about: Redux/RTK, How to teach/learn, Ecological Economics 🤔
+- 💬 Ask me about: Redux/RTK, Teaching, Ecological Economics 🤔
 - 📫 How to reach me: evon.scott@gmail.com
 - ⚡ Fun fact: HIRE ME.
 
