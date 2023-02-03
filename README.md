@@ -5,6 +5,7 @@ I'm Evon, a web developer based in London. Currently SEEKING FULL-TIME WORK (no 
 - 🔭 I’m currently wrapping up an e-commerce React (Redux RTK) app for a Vancouver artist.
 - 😄 Pronouns: He/Him
 - 💬 Ask me about: Redux/RTK, How to teach/learn, Ecological Economics 🤔
+- 📫 How to reach me: evon.scott@gmail.com
 - ⚡ Fun fact: HIRE ME.
 
 Too subtle?
@@ -23,4 +24,4 @@ Too subtle?
 
 - Adaptable, highly motivated, and a self-starter. I learned everything I know about coding/development in 6 months of self-teaching. Imagine how much more I can learn and do for your organization in 3, 6, 12 months or more?
 
-- 📫 How to reach me: evon.scott@gmail.com
+
