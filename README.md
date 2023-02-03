@@ -13,7 +13,7 @@ Too subtle?
 
 - I made [this](https://ines-chuaqui-preview.netlify.app/) - repo [here](https://github.com/ButcherDing/ines-chuaqui). It has the stamp of approval of my mentor, a senior engineer who works with React every day. Ask me about it line by line. Not a copy-pasta.
 
-- A background in Sustainability, Education. I care a lot about learning, sharing my knowledge with others, and the impact of the things I do.
+- A background in sustainability and education. I care a lot about learning, sharing my knowledge with others, and the impact of the things I do.
 
 - Social science. Being methodical about understanding people (incl. users, co-workers), their needs, the organisations/groups they belong to, and how it all fits together (the big picture). For example I conducted the research for and co-wrote [this paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219607).
 
