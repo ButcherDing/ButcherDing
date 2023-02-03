@@ -16,7 +16,7 @@ Too subtle?
 
 #### How do I stand out from the pack? What makes me ✨ _special_ ✨:
 
-- I made [this](https://ines-chuaqui-preview.netlify.app/) myself - ([repo here](https://github.com/ButcherDing/ines-chuaqui)). It has the stamp of approval of my mentor, a senior engineer who works with React every day. Happy to talk about it line by line. Not a copy-pasta.
+- I made [this app](https://ines-chuaqui-preview.netlify.app/) myself - ([repo here](https://github.com/ButcherDing/ines-chuaqui)). It has the stamp of approval of my mentor, a senior engineer who works with React every day. Happy to talk about it line by line. Not a copy-pasta.
 
 - A background in sustainability and education. I care a lot about learning, sharing my knowledge with others, and the impact of the things I do.
 
