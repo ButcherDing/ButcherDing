@@ -14,7 +14,7 @@ SEEKING FULL-TIME WORK (no sponsorship required).
 
 Too subtle?
 
-#### How do I stand out from the pack? What makes me ✨ _special_ ✨:
+#### How do I stand out from other new devs? What makes me ✨ _special_ ✨:
 
 - I made [this app](https://ines-chuaqui-preview.netlify.app/) - ([repo here](https://github.com/ButcherDing/ines-chuaqui)). It has the stamp of approval of my mentor, a senior engineer who works with React every day. Happy to talk about it line by line. Not a copy-pasta.
 
