@@ -24,6 +24,6 @@ Too subtle?
 
 - Proven track record of delivering on complex projects, coordinating diverse teams (as environmental social scientist).
 
-- Excellent written and verbal communication, pitching these to all types of organisations and audiences, in multiple languages (Japanese, Spanish, French... and English).
+- Excellent written and verbal communication, pitching these to all types of organisations and audiences, sometimes in multiple languages (Japanese, Spanish, French... and English).
 
 - Adaptable, highly motivated, disciplined, and a self-starter. I learned everything I know about coding/development in 7 months of self-teaching. Imagine how much more I can learn and do for your organization in 3, 6, 12 months or more?
