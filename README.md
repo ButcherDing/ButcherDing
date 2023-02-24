@@ -14,7 +14,7 @@ SEEKING FULL-TIME WORK (no sponsorship required).
 
 Too subtle?
 
-#### How do I stand out from other new devs? What makes me ✨ _special_ ✨:
+#### How do I stand out from other new devs? What makes me ✨ unique ✨:
 
 - My portfolio, in particular [this app](https://ines-chuaqui-preview.netlify.app/) - ([repo here](https://github.com/ButcherDing/ines-chuaqui)). An e-commerce artist's website integrating google firebase/auth, react redux toolkit (RTK), and stripe.
 
