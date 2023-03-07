@@ -16,7 +16,7 @@ Too subtle?
 
 #### How do I stand out from other new devs? What makes me ✨ unique ✨:
 
-- My portfolio, in particular [this app](https://ines-chuaqui-preview.netlify.app/) - ([repo here](https://github.com/ButcherDing/ines-chuaqui)). An e-commerce artist's website integrating google firebase/auth, react redux toolkit (RTK), and stripe.
+- My portfolio, in particular [this app](https://ines-chuaqui-preview.netlify.app/) - ([repo here](https://github.com/ButcherDing/ines-chuaqui)). A complex e-commerce artist's website integrating google firebase/auth, react redux toolkit (RTK), and stripe.
 
 - A background in sustainability and education. I care a lot about learning, sharing my knowledge with others, and the impact of my work.
 
