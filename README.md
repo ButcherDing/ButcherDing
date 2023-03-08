@@ -4,7 +4,7 @@ I'm Evon, a web developer based in London.
 
 I currently design and build slick, responsive web apps using React Redux / Javascript / Typescript / Styled Components.
 
-SEEKING FULL-TIME WORK (no sponsorship required).
+**Seeking full-time work** (no sponsorship required).
 
 - 🔭 I’m currently wrapping up an e-commerce React (Redux RTK) app for a Vancouver artist.
 - 😄 Pronouns: He/Him
