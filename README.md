@@ -10,7 +10,7 @@ I currently design and build slick, responsive web apps using React Redux / Java
 - 😄 Pronouns: He/Him
 - 💬 Ask me about: Redux/RTK, Teaching, Ecological Economics 🤔
 - 📫 How to reach me: evon.scott@gmail.com
-- ⚡ Fun fact: **Hire me!**
+- ⚡ Fun fact: I volunteer teaching coding skills at [CYF](https://codeyourfuture.io/) - it's fun!
 
 Too subtle?
 
