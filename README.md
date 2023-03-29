@@ -26,4 +26,4 @@ Too subtle?
 
 - Excellent written and verbal communication, pitching these to all types of organisations and audiences, sometimes in multiple languages (Japanese, Spanish, French... and English).
 
-- Adaptable, highly motivated, disciplined, and a self-starter. I learned everything I know about coding/development in 7 months of self-teaching. Imagine what I can do for your organization in 3, 6, 12 months or more?
+- Adaptable, highly motivated, disciplined, and a self-starter. I learned everything I know about coding/development in 9 months of self-teaching. Imagine what I can do for your organization in 3, 6, 12 months or more.
