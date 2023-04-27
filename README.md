@@ -24,6 +24,6 @@ A complex e-commerce / portforlio app using React Redux Toolkit (RTK), Stripe, a
 
 - Social science. Being methodical, analytical, delivering complex projects, collaborating on teams. See my research in [PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219607) and at [Forest Research](https://cdn.forestresearch.gov.uk/2021/01/pput._focus_group_findings._final._aa.pdf).
 
-- Adaptable, highly motivated, disciplined, and a self-starter. I learned everything I know about coding/development in 9 months of self-teaching. Imagine what I can do for your organization in 3, 6, 12 months or more.
+- Adaptable, highly motivated, disciplined, and a self-starter. I learned everything I know about coding/development in 9 months of self-teaching.
 
 - Excellent written and verbal communication, to all types of organisations and audiences - (I also speak Japanese, Spanish, French).
