@@ -2,21 +2,23 @@
 
 I'm Evon, a web developer based in London. 
 
-I currently design and build slick, responsive web apps using React Redux / Javascript / Typescript / Styled Components.
+I currently design and build clean, responsive web apps using a variety of tech, but particularly enjoy React Redux / Javascript / Typescript / Styled Components. I also mess around with Astro, and a fully typesafe stack: e.g. [T3](https://create.t3.gg/)
 
-**Seeking full-time work** (no sponsorship required).
+**Open to full-time or freelance opportunities**
 
-- 🔭 I’m currently wrapping up an e-commerce React (Redux RTK) app for a Vancouver artist.
+### Featured Work
+(https://ines-chuaqui-preview.netlify.app/)
+A complex e-commerce / portforlio app using React Redux Toolkit (RTK), Stripe, and Firebase Firestore & Auth.
+([repo](https://github.com/ButcherDing/ines-chuaqui))
+
 - 😄 Pronouns: He/Him
 - 💬 Ask me about: Redux/RTK, Teaching, Ecological Economics 🤔
 - 📫 How to reach me: evon.scott@gmail.com
-- ⚡ Fun fact: I teach coding skills as a volunteer with [CodeYourFuture](https://codeyourfuture.io/) - a lot of fun!
+- ⚡ Fun fact: I teach coding skills as a volunteer with [CodeYourFuture](https://codeyourfuture.io/)
 
-Too subtle?
+#### How do I stand out? What makes me ✨ different ✨:
 
-#### How do I stand out from other new devs? What makes me ✨ unique ✨:
 
-- [This app](https://ines-chuaqui-preview.netlify.app/) - ([repo here](https://github.com/ButcherDing/ines-chuaqui)). A complex portfolio / e-commerce app integrating google firebase/auth, react redux toolkit (RTK), and stripe.
 
 - Background in sustainability and education. I care about learning, sharing my knowledge with others, and the impact of my work.
 
