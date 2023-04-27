@@ -16,9 +16,7 @@ A complex e-commerce / portforlio app using React Redux Toolkit (RTK), Stripe, a
 - 📫 How to reach me: evon.scott@gmail.com
 - ⚡ Fun fact: I teach coding skills as a volunteer with [CodeYourFuture](https://codeyourfuture.io/)
 
-#### How do I stand out? What makes me ✨ different ✨:
-
-
+#### How do I stand out? What makes me ✨different✨:
 
 - Background in sustainability and education. I care about learning, sharing my knowledge with others, and the impact of my work.
 
