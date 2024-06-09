@@ -1,10 +1,8 @@
 ### Hi there 👋 
 
-I'm Evon, a freelance, frontend-heavy web developer based in London. 
+I'm Evon, a frontend-heavy web developer based in London. Currently I work for Byway, where I make delightful ways for people to create and book flight-free trips around Europe.
 
-I currently design and build clean, responsive web apps using a variety of tech, but particularly enjoy React Redux / Typescript / Styled Components. I also mess around with a fully typesafe stack using Next, Prisma, and tRPC. More recently I've been working with Astro.
-
-**Open to full-time or freelance opportunities**
+I design and build clean, responsive Web apps using React and a variety of tech. By day I enjoy using Typescript-based Next, but have also dabbled with various component libraries and frameworks such as Astro.
 
 ### Featured Work
 (https://ines-chuaqui-preview.netlify.app/)
