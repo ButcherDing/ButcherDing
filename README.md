@@ -1,25 +1,46 @@
-### Hi there 👋 
+# Hi there 👋 I'm Evon
 
-I'm Evon, a frontend-heavy web developer based in London. Currently I work for Byway, where I make delightful ways for people to create and book flight-free trips around Europe.
+I am a **Geospatial & Fullstack Software Engineer** based in London, currently engineering the core mapping and application layers at **Byway** (a certified sustainable travel B-Corp). 
 
-I design and build clean, responsive Web apps using React and a variety of tech. By day I enjoy using Typescript-based Next, but have also dabbled with various component libraries, frameworks like Astro, and CMS solutions like Strapi.
+I bridge complex, multi-layered data systems with high-performance, human-centric interfaces. With a First-Class MSc in Environmental Science and a background as a civil service research scientist, I treat software architecture like a complex ecosystem—prioritizing absolute data validation, system resilience, and systemic impact.
 
-### Featured Work
-(https://ines-chuaqui-preview.netlify.app/)
-A complex e-commerce / portforlio app using React Redux Toolkit (RTK), Stripe, and Firebase Firestore & Auth.
-([repo](https://github.com/ButcherDing/ines-chuaqui))
+---
 
-- 😄 Pronouns: He/Him
-- 💬 Ask me about: Redux/RTK, Teaching, Ecological Economics 🤔
-- 📫 How to reach me: evon.scott@gmail.com
-- ⚡ Fun fact: I volunteer at [CodeYourFuture](https://codeyourfuture.io/), where I teach coding skills to disadvantaged people.
+### 🛠️ Core Tech Stack & Toolkit
 
-#### What makes me ✨different✨:
+* **Geospatial & Mapping:** MapLibre GL JS, Stadia Maps, Vector Tiles, Client-Side Data Optimization
+* **Frontend Ecosystem:** TypeScript, React, Next.js, tRPC, Zod, GraphQL, TailwindCSS
+* **Backend & Databases:** Node.js, PostgreSQL, Prisma ORM, Ruby, Headless CMS (DatoCMS, Strapi)
+* **Testing & Quality Assurance:** Playwright, Vitest, Jest, CI/CD pipelines
 
-- Background in sustainability and education. I care about learning, sharing my knowledge with others, and the impact of my work.
+---
 
-- Social science. Being methodical, analytical, solving problems, delivering complex projects, collaborating on teams. See my work in [PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219607) and [Forest Research](https://cdn.forestresearch.gov.uk/2021/01/pput._focus_group_findings._final._aa.pdf).
+### 🚀 Featured Production Work
 
-- Adaptable, highly motivated, disciplined, and a self-starter. I am self-taught.
+#### 🗺️ [Byway Interactive Trip-Builder](https://byway.travel)
+Led the technical interface delivery of a greenfield, high-performance interactive mapping product for flight-free travel networks. 
+* Engineered complex spatial data rendering layers using **MapLibre** and **Stadia Maps**.
+* Architected end-to-end fullstack epics (including core authentication migrations) leveraging **PostgreSQL**, **Prisma ORM**, and **tRPC**.
+* Implemented rigorous type-safety and schema validation pipelines via **Zod** and **Playwright**.
 
-- Excellent written and verbal communication, to all types of organisations and audiences - (I also speak Japanese, Spanish, French).
+#### 🛒 [Ewhurst Park Restoration Platform](https://ewhurst-park.com)
+Engineered and maintained a highly optimized, content-driven web deployment for a major ecosystem-wide biodiversity and nature rewilding project in Hampshire.
+* Leveraged lightweight, highly semantic static site architecture to scale public outreach and minimize infrastructure costs.
+
+---
+
+### ✨ What Makes Me Different
+
+* **Domain Expertise:** Published environmental researcher (see my work in *PLOS One* and *Forest Research*) and former Social Scientist for the UK Forestry Commission. I understand the socioeconomic data models, GIS realities, and systemic goals behind impact tech.
+* **Technical Leadership & Education:** Senior Volunteer and Instructor at **CodeYourFuture**, teaching fullstack software engineering to refugees and disadvantaged individuals. I excel at translating complex system architecture into clear, universal concepts.
+* **Global Perspective:** Exceptionally adaptable communicator with multi-cultural experience. Alongside English, I speak **Japanese, Spanish, and French**.
+
+---
+
+### 📫 Let's Connect
+
+* **LinkedIn:** [/in/evon-c-scott](https://linkedin.com)
+* **Email:** evon.scott@gmail.com
+* **Pronouns:** He/Him
+
+*Always keen to collaborate on radical tech solutions in ClimateTech, ReFi, Open-Source Investigations (OSINT), and Geospatial Intelligence.*
