@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Evon
 
-I am a **Geospatial & Fullstack Software Engineer** based in London, currently engineering the core mapping and application layers at **Byway** (a certified sustainable travel B-Corp). 
+I am a **Fullstack Software Engineer** specializing in **Geospatial & Mapping** technologies. I'm based in London, currently engineering the core mapping and application layers at **Byway** (a certified sustainable travel B-Corp). 
 
-I bridge complex, multi-layered data systems with high-performance, human-centric interfaces. With a First-Class MSc in Environmental Science and a background as a civil service research scientist, I treat software architecture like a complex ecosystem—prioritizing absolute data validation, system resilience, and systemic impact.
+I bridge complex, multi-layered data systems with high-performance, human-centric interfaces. With a First-Class MSc in Environmental Science and a background as a civil service research scientist, I treat software architecture like a complex ecosystem. I emphasize data validation, system resilience, and systemic impact.
 
 ---
 
